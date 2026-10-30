@@ -1,0 +1,15 @@
+/* Pega esto AL FINAL de css/estilos.css */
+input[type="email"] {
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0 15px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.error { color: #b00020; font-weight: bold; text-align: center; }
+.ok { color: #1b7f3b; font-weight: bold; text-align: center; }
+
+input.peligro { background-color: #b00020; }
+input.peligro:hover { background-color: #7f0016; }

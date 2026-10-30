@@ -2,7 +2,7 @@
 $host = "localhost";
 $usuarioBD = "root";
 $passBD = "";
-$nombreBD = "mi_sitio";";
+$nombreBD = "mi_sitio";
 
 mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT);
 try {
